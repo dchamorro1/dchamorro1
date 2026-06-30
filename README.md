@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in Java, C++, and Python. 
 - 🌱 I’m a Full Stack Software Engineer with 4 years of experience.
+- 💻 My top skills are React, .NET, MySQL, Python, Java, C++, and AWS
 - 📫 How to reach me: danielchamorro.q@gmail.com
 
 <!---
